@@ -1,0 +1,8 @@
+A#CDE
+EDCB#
+AB#DE
+#DCBA
+AEC#B
+
+Waktu pencarian: 26 ms
+Banyak kasus yang ditinjau: 45 kasus
