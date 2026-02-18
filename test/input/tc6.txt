@@ -1,0 +1,4 @@
+AABB
+CCDD
+AABB
+CCDD
